@@ -1,0 +1,33 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmayanks/react-learning.git"
+  },
+  "keywords": [
+    "myWay"
+  ],
+  "author": "Mayank Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmayanks/react-learning/issues"
+  },
+  "homepage": "https://github.com/sharmayanks/react-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browsersList":[
+    "last 2 Chrome versions"
+  ]
+}
